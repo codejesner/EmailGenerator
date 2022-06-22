@@ -1,0 +1,8 @@
+C:\Users\Dorotheo\Documents\C#\EmailGenerator\EmailGenerator\bin\Debug\EmailGenerator.exe.config
+C:\Users\Dorotheo\Documents\C#\EmailGenerator\EmailGenerator\bin\Debug\EmailGenerator.exe
+C:\Users\Dorotheo\Documents\C#\EmailGenerator\EmailGenerator\bin\Debug\EmailGenerator.pdb
+C:\Users\Dorotheo\Documents\C#\EmailGenerator\EmailGenerator\obj\Debug\EmailGenerator.csproj.AssemblyReference.cache
+C:\Users\Dorotheo\Documents\C#\EmailGenerator\EmailGenerator\obj\Debug\EmailGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dorotheo\Documents\C#\EmailGenerator\EmailGenerator\obj\Debug\EmailGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Dorotheo\Documents\C#\EmailGenerator\EmailGenerator\obj\Debug\EmailGenerator.exe
+C:\Users\Dorotheo\Documents\C#\EmailGenerator\EmailGenerator\obj\Debug\EmailGenerator.pdb
