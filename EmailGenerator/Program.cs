@@ -43,11 +43,16 @@ namespace EmailGenerator
             Random random = new Random();
             Regex reg = new Regex("[*'\",_&#^@]");
             var listEmail = new List<string>();
-            StreamWriter sw = new StreamWriter("emails.txt", false);
+            StreamWriter sw = new StreamWriter("emails.txt");
+
             var listName = createListNames();
 
-            string dnsEmail = "@gmail.com";
+            if (listName.Count() == 0)
+            {
+                return false;
+            }
 
+            string dnsEmail = "@gmail.com";
             Console.Write("How many emails do you want to generate ? ");
             int amount = int.Parse(Console.ReadLine());
 
@@ -64,7 +69,6 @@ namespace EmailGenerator
             }
             listEmail.ForEach(email => sw.WriteLine(email));
             sw.Close();
-
             return true;
         }
     }
